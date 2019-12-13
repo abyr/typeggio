@@ -1,12 +1,13 @@
 Lesson 03: D and K
-dddd kkkk ddd kkk dd kk d k
-kkkk dddd kkk ddd kk dd k d
-d k dd kk ddd kkk dddd kkkk
-k d kk dd kkk ddd kkkk dddd
+d k d k
+k d k d
+kk dd kk dd
+dd kk dd kk
 da da da da
 di di di di
 ka ka ka ka
 ki ki ki ki
-dada kaka didi kiki
-add idd akk ikk
+id id id id
+add add add add
+ka ka ka ka
 d k d k
