@@ -1,9 +1,8 @@
 Lesson 01: F and J
-ffff jjjj fff jjj ff jj f j
-jjjj ffff jjj fff jj ff j f
-ffff jjjj fff jjj ff jj f j
-jjjj ffff jjj fff jj ff j f
+f j f j
 ff jj ff jj
 jj ff jj ff
-f j f j
 j f j f
+jj ff jj ff
+fj jf fj jf
+f j f j
