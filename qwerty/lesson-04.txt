@@ -1,11 +1,13 @@
 Lesson 04: S and L
-s l ss ll sss lll ssss llll
-l s ll ss lll sss llll ssss
-ll ss ll ss
-ss ll ll ss
-ll ss ss ll
-la la la la
-sa sa sa sa
-ill ill ill ill
-ssi ssi ssi ssi
+s l s l
 l s l s
+la la la la
+li li li li
+sa sa sa sa
+si si si si
+ill ill ill
+all all all
+sla sla sla sla
+sli sli sli sli
+las las las las
+s l s l
