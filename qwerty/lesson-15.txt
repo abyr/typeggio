@@ -1,5 +1,12 @@
-Lesson 15: [ and ]
-[1] [2]
-[0] [9] [8]
-[] [] [] []
-[ ] [ ] [ ] [ ]
+Lesson 15: Q and P
+q p q p
+aq aq aq aq
+qe qe qe qe
+pa pa pa pa
+pi pi pi pi
+eq eq eq eq
+qa qa qa qa
+pl pl pl pl
+pe pe pe pe
+ps ps ps ps
+q p q p

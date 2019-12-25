@@ -1,9 +1,13 @@
-Lesson 16: ' and "
-' ' ' '
-'a' 'f' 'j' ';'
-'j' 'f' ';' 'a'
-" " " "
-"a" "f" "j" ";"
-"j" "f" ";" "a"
-"p" "q"
-'w' 'o'
+Lesson 16: G and H
+g h g h
+gh gh gh gh
+go go go go
+ha ha ha ha
+ge ge ge ge
+hi hi hi hi
+ga ga ga ga
+ho ho ho ho
+gr gr gr gr
+he he he he
+kh kh kh kh
+g h g h

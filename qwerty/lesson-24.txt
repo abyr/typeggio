@@ -1,10 +1,9 @@
-Lesson 24: lists
-# header
-- [X] item #1 10/12/2010
-- [.] item #2 08/06/2018
-  - [X] @todo
-  - [ ] @fixme
-  - [ ] !important
-## sub header
-- [ ] untill 06/07/2010T09:10:00
-- [X] closed 03/24/2019T12:45:01
+Lesson 24: Symbols
+, . , .
+he, she, we.
+he, she, we.
+one, two, three.
+sure! sure!
+thanks!
+he & she, he & she.
+me & you, me & you.

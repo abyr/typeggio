@@ -1,9 +1,11 @@
-Lesson 22: { and }
-{ ru } { gh } { dk } { ty }
-{ " } { " }
-{"01"}
-{ "01" }
-{ " 01 " }
-{ " 0 1 " }
-{ "a": false, "b": true }
-{{ a }} {{ b }}
+Lesson 22: Shorts
+zer zer zer zer
+exi exi exi exi
+zen zen zen zen
+axi axi axi axi
+oze oze oze oze
+box box box box
+zed zed zed zed
+sex sex sex sex
+zes zes zes zes
+xen xen xen xen

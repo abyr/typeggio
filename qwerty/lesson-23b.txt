@@ -1,9 +1,0 @@
-Lesson 23b: symbols
-void: abc;
-((a, b) => (++a++ % ++b++));
-((x, y) => (--x-- / --y--));
-for (var i=0; i<10;++i);
-if (a === b && x <= y && i % 10) { i++ };
-++--__a; --++__b;
-(( a * b * c ) * ( x * y * z ) * i )
-(x/y/z / a/b/c)
