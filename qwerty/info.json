@@ -1,5 +1,5 @@
 {
-    "lessons": {
+    "lessons": {        
         "01": {
             "title": "Lesson 01: F and J"
         },
@@ -101,6 +101,9 @@
         },
         "34": {
             "title": "Lesson 34: Regular phrases"
+        },
+        "99": {
+            "title": "Demo"
         }
     }
 }
